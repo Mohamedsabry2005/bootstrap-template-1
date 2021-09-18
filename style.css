@@ -1,0 +1,24 @@
+.navbar-collapse {
+    justify-content: flex-end;
+}
+.custombg {
+    background: black url(./images/abstract.91fe92b5.jpg);
+    background-size: cover;
+}
+.cards .container .row {
+    justify-content: center;
+    gap: 10px;
+}
+.cards .container img {
+    padding: 0;
+    margin: 0;
+}
+.cards .container p,.cards .container h5 {
+    padding: 10px 20px;
+}
+.cards .container div.row div.card {
+    
+    padding: 0;
+    background-color: #2e2e2e;
+    border-color: #2e2e2e;
+}
